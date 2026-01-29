@@ -1,5 +1,6 @@
 ﻿using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
+using AxiomFX.Core.Features;
 
 namespace AxiomFX.Core.Abstractions;
 
